@@ -11,4 +11,5 @@
 | 2020.10.21(수) | [사다리 조작](https://www.acmicpc.net/problem/15684) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Baekjoon/_20.10.21(수)_사다리_조작.cpp) | 시간 단축 필요 |
 | 2020.10.23(금) | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Baekjoon/_20.10.23(금)_2048_(Easy).cpp) |                |
 | 2020.10.28(수) |   [경사로](https://www.acmicpc.net/problem/14890)    | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Baekjoon/_20.10.28(수)_경사로.cpp) |                |
+| 2020.10.29(목) |     [로또](https://www.acmicpc.net/problem/6603)     | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Baekjoon/_20.10.29(목)_로또.cpp) |                |
 
