@@ -22,3 +22,15 @@
 | 2020.10.20(화) | [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.20(화)_보석_쇼핑.cpp) |      |
 | 2020.10.21(수) | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.21(수)_가장_먼_노드.cpp) |      |
 
+
+
+## Level 4
+
+|      날짜      |                             문제                             |                             코드                             |       비고       |
+| :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
+| 2020.10.30(금) | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.30(금)_가사_검색_효율성_실패.cpp) | 효율성1,2번 실패 |
+
+
+
+
+
