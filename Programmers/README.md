@@ -1,5 +1,14 @@
 # 프로그래머스 코딩테스트 연습
 
+
+
+## Level  1
+|      날짜      |                             문제                             |                             코드                             | 비고 |
+| :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
+| 2020.11.30(월) | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=cpp) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.11.30(월)_3진법_뒤집기.cpp) |      |
+
+
+
 ## Level  2
 
 |      날짜      |                             문제                             |                             코드                             | 비고 |
@@ -10,6 +19,8 @@
 | 2020.10.11(일) | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.11(일)_조이스틱.cpp) |      |
 | 2020.10.17(토) | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.17(토)_쿼드압축_후_개수_세기.cpp) |      |
 | 2020.10.22(목) | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.10.22(목)_더_맵게.cpp) |      |
+| 2020.11.30(월) | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [cpp](https://github.com/oleeyoung520/coding_test_practice/blob/master/Programmers/cpp/_20.11.30(월)_삼각_달팽이.cpp) |      |
+|                |                                                              |                                                              |      |
 
 
 
